@@ -18,6 +18,7 @@ content.style.display = "flex";
 content.style.justifyContent = "space-between";
 content.style.alignItems = "center";
 content.style.padding = "10px";
+content.style.backgroundColor = "#050505ff";
 
 
 let text= document.getElementById("text");
